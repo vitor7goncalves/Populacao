@@ -1,0 +1,13 @@
+D:\Meus Projetos\Aulas C#\população\bin\Debug\netcoreapp3.1\população.exe
+D:\Meus Projetos\Aulas C#\população\bin\Debug\netcoreapp3.1\população.deps.json
+D:\Meus Projetos\Aulas C#\população\bin\Debug\netcoreapp3.1\população.runtimeconfig.json
+D:\Meus Projetos\Aulas C#\população\bin\Debug\netcoreapp3.1\população.runtimeconfig.dev.json
+D:\Meus Projetos\Aulas C#\população\bin\Debug\netcoreapp3.1\população.dll
+D:\Meus Projetos\Aulas C#\população\bin\Debug\netcoreapp3.1\população.pdb
+D:\Meus Projetos\Aulas C#\população\obj\Debug\netcoreapp3.1\população.csprojAssemblyReference.cache
+D:\Meus Projetos\Aulas C#\população\obj\Debug\netcoreapp3.1\população.AssemblyInfoInputs.cache
+D:\Meus Projetos\Aulas C#\população\obj\Debug\netcoreapp3.1\população.AssemblyInfo.cs
+D:\Meus Projetos\Aulas C#\população\obj\Debug\netcoreapp3.1\população.csproj.CoreCompileInputs.cache
+D:\Meus Projetos\Aulas C#\população\obj\Debug\netcoreapp3.1\população.dll
+D:\Meus Projetos\Aulas C#\população\obj\Debug\netcoreapp3.1\população.pdb
+D:\Meus Projetos\Aulas C#\população\obj\Debug\netcoreapp3.1\população.genruntimeconfig.cache
